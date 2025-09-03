@@ -1,0 +1,17 @@
+.ticket-card {
+  max-width: 600px;
+  margin: auto;
+}
+
+.ticket-section {
+  margin-bottom: 15px;
+}
+
+.ticket-section h5 {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.text-center {
+  text-align: center;
+}
